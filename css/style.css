@@ -47,6 +47,7 @@ header li{
 
 header #branding{
   float:left;
+  text-align: center;
 }
 
 header #branding h1{
