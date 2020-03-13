@@ -89,13 +89,16 @@ header a:hover{
   background: #35424a;
 
 }
-#blog h1{
-  float: left;
+
+#blog a{
+ color: tan;
 }
+
 #boxes{
   margin-top: 20px;
 
 }
+
 #boxes .box{
   float: left;
   text-align: center;
